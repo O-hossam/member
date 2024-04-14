@@ -189,7 +189,7 @@ header nav .form i {
 .landing {
   min-height: 100vh;
   background-color: #1f2021;
-  background-image: url("../image/owl_with_yellow_and_black_eyes_4k_hd_birds-3840x2160.jpg");
+  background-image: url("owl_with_yellow_and_black_eyes_4k_hd_birds-3840x2160.jpg");
   background-size: cover;
   position: relative;
 }
@@ -315,7 +315,7 @@ header nav .form i {
   padding-bottom: var(--section-padding);
   height: 600px;
   position: relative;
-  background-image: url("../image/design-features.jpg");
+  background-image: url("design-features.jpg");
   background-size: cover;
   display: flex;
   align-items: center;
@@ -522,7 +522,7 @@ width: 100%;
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
   text-align: center;
-  background-image: url("../image/download.jpeg");
+  background-image: url("download.jpeg");
   background-size: cover;
   position: relative;
 }
@@ -651,7 +651,7 @@ width: 100%;
 .subscribe {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url("../image/download\ \(1\).jpeg");
+  background-image: url("download\ \(1\).jpeg");
   background-size: cover;
   position: relative;
   color: white;
